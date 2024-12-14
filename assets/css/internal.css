@@ -36,6 +36,9 @@
   width: 100%;
   padding-left: 130px;
   position: relative;
+  background-color: gray;
+  padding-left: 130px;
+  /*  */
 }
 
 .s-wrapper .s-main-content__top {
