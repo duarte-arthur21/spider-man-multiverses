@@ -36,4 +36,4 @@ Uma experiência imersiva que combina o estilo retrô dos quadrinhos com efeitos
 ## 🔗 Link da Learning Page
 <p>Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
 
-https://duarte-arthur21.github.io/Learning-page-Mundo-Invertido/
+https://duarte-arthur21.github.io/spider-man-multiverses/ 
